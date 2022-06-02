@@ -5,12 +5,10 @@
 
 <p align='center'> 📫 How to reach me ->   <a href='sangucetin@gmail.com'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/littledevone_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="littledevone_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cetinsangu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cetinsangu" height="30" width="40" /></a>
-  
-<p align="center"> <a href="https://twitter.com/littledevone_" target="blank"><img src="https://img.shields.io/twitter/follow/littledevone_?logo=twitter&style=for-the-badge" alt="littledevone_" /></a> </p>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
