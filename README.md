@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cetin</h1>
 <h3 align="center">A passionate front-end developer from Turkey</h3>
 
-<p align='center'> 🌱 I’m currently learning <b>ReactJS and TailwindCSS</b> </p>
+<p align='center'>🦾 I’m currently learning <b>ReactJS and TailwindCSS</b> </p>
 
 <p align='center'> 📫 How to reach me ->   <a href='sangucetin@gmail.com'><img align='center' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> </p>
 
