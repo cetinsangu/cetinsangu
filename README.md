@@ -20,4 +20,4 @@
 
 <p><img width='45%' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cetinsangu&show_icons=true&theme=radical&locale=en&layout=compact" alt="cetinsangu" /></p>
 
-<p>&nbsp;<img width='45%' align="right" src="https://github-readme-stats.vercel.app/api?username=cetinsangu&show_icons=true&theme=radical&locale=en" alt="cetinsangu" /></p>
+<p>&nbsp;<img width='45%' align="right" src="https://github-readme-stats.vercel.app/api?username=cetinsangu&show_icons=true&hide=contribs,prs&theme=radical&locale=en" alt="cetinsangu" /></p>
