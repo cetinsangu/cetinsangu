@@ -6,7 +6,7 @@
 <p align='center'> 📫 How to reach me
   <br>
   <br>
- <a href='https://sangucetin@gmail.com'><img align='center' width='120' height='40' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> </p>
+ <a href='mailto:sangucetin@gmail.com'><img align='center' width='120' height='40' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a> </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
