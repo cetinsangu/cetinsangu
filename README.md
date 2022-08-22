@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cetin</h1>
 <h3 align="center">A passionate front-end developer from Turkey</h3>
 
-<p align='center'>🦾 I’m currently learning <b>Redux Toolkit, GSAP</b> </p>
+<p align='center'>🦾 I’m currently learning <b>Redux Toolkit, GSAP, Vue.js, Pinia</b> </p>
 
 <p align='center'> 📫 How to reach me
   <br>
